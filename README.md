@@ -16,9 +16,5 @@ Le but est ici d'automatiser les différents modules de ce site avec **Selenium*
   - [Code python pour le Webtables](code/test_webtables.py) 
 <br/>
 
-### Appercu d'une session de test automatisée
-![capture vidéo test](img/screen.gif)<br/>
-### Rapport de test generé à la suite de nos tests
-![rapport de test](img/report.png)
 
 
